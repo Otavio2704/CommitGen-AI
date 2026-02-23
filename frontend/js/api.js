@@ -2,7 +2,7 @@
 // const API_BASE = 'https://SEU-BACKEND.onrender.com/api';
 const API_BASE = window.location.hostname === 'localhost'
     ? '/api'
-    : 'https://SEU-BACKEND.onrender.com/api';
+    : 'https://commitgen-ai.onrender.com/api';
 
 /**
  * Extrai informações de rate limit dos headers da resposta.
