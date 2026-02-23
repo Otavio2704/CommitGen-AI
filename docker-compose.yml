@@ -1,0 +1,27 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./backend
+    container_name: commitgen-api
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - SPRING_PROFILES_ACTIVE=docker
+    expose:
+      - "8080"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8080/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: commitgen-web
+    ports:
+      - "80:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
