@@ -11,6 +11,8 @@ Cole seu `git diff`, escolha o estilo e receba sugestões prontas para usar.
 ![GroqCloud](https://img.shields.io/badge/GroqCloud-LLaMA%203.3%2070B-F55036?logo=meta&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
+Link oficial: https://otavio2704.github.io/CommitGen-AI/
+
 </div>
 
 ---
