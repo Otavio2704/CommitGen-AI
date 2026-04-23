@@ -14,7 +14,6 @@ Cole seu `git diff`, escolha o estilo e receba sugestões prontas para usar.
 Link oficial: https://otavio2704.github.io/CommitGen-AI/
 
 </div>
----
 
 ## ⚠️ Aviso Importante
 
