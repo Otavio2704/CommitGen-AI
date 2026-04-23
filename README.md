@@ -23,7 +23,7 @@ Como resultado, a funcionalidade de geração automática de commits está tempo
 
 Em breve restabelecerei o serviço com segurança.
 
-Obrigado pela atenção;)
+Obrigado pela atenção ;)
 
 ---
 
