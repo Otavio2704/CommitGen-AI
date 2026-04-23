@@ -21,7 +21,9 @@ Devido a um incidente recente envolvendo a plataforma de deploy, a chave de API 
 
 Como resultado, a funcionalidade de geração automática de commits está temporariamente indisponível.
 
-Em breve restabelecerei o serviço com segurança o mais breve possível.
+Em breve restabelecerei o serviço com segurança.
+
+Obrigado pela atenção;)
 
 ---
 
