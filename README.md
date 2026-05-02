@@ -15,16 +15,6 @@ Link oficial: https://otavio2704.github.io/CommitGen-AI/
 
 </div>
 
-## ⚠️ Aviso Importante
-
-Devido a um incidente recente envolvendo a plataforma de deploy, a chave de API utilizada para integração com o serviço de IA foi revogada por segurança.
-
-Como resultado, a funcionalidade de geração automática de commits está temporariamente indisponível.
-
-Em breve restabelecerei o serviço com segurança.
-
-Obrigado pela atenção ;)
-
 ---
 
 ## 📋 Índice
